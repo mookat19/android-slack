@@ -1,2 +1,2 @@
 # android-slack
-This is an androip app which is used to send text messages(sms) from the app to slack channel
+This is an android app which is used to send incoming text messages(sms) from the app to slack channel
